@@ -9,7 +9,10 @@
 
 - 🔭 I’m currently working on Frontend projects using HTML,CSS, and Javascript.
 - 🌱 I’m currently learning NodeJS,ExpressJS, MongoDb.
-- 📫 How to reach me: <a href ="mailto:arnaudcavalletto@yahoo.com"><strong>Email</strong></a> <br> <a href ="www.linkedin.com/in/arnaud-cavalletto"><strong>LinkedIn</strong></a>
+- 📫 How to reach me: 
+- <a href ="mailto:arnaudcavalletto@yahoo.com"><strong>Email</strong></a> 
+- <br> 
+- <a href ="www.linkedin.com/in/arnaud-cavalletto"><strong>LinkedIn</strong></a>
 ---
 
 ### Languages and Tools
