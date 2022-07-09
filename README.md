@@ -1,17 +1,25 @@
 
-<h2> Hi there 👋, I'm Arnaud Cavalletto! </h2>
+<h2> Hi there 👋, I'm Arnaud! </h2>
 
 ---
 
-<p> I am a software developer currently going through the General Assembly Software Development bootcamp. I enjoy the challenge of learning new technologies and using them to creatively solve problems.</p>
+<p> I am a software developer who enjoys diving into challenging problems and working through them to a solution. I enjoy learning new things within technologies I already know and digging into technologies that I have not tried yet.</p>
 
 ---
 
-- 🔭 I’m currently working on Frontend projects using HTML,CSS, and Javascript.
-- 🌱 I’m currently learning NodeJS,ExpressJS, MongoDb.
+- 🔭 I’m currently working on Frontend projects using: 
+    -HTML
+    -CSS
+    -Javascript
+    -React
+    -Python
+    -Django.
+- 🌱 I’m currently learning: 
+    -GraphQL 
+    -PostgreSQL
 - 📫 How to reach me: 
-- <a href ="mailto:arnaudcavalletto@yahoo.com"><strong>Email</strong></a> 
-- <a href ="www.linkedin.com/in/arnaud-cavalletto"><strong>LinkedIn</strong></a>
+    - <a href ="mailto:arnaudcavalletto@yahoo.com"><strong>Email</strong></a> 
+    - <a href ="www.linkedin.com/in/arnaud-cavalletto"><strong>LinkedIn</strong></a>
 ---
 
 ### Languages and Tools
