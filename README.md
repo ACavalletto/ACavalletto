@@ -7,16 +7,8 @@
 
 ---
 
-- 🔭 I’m currently working on Frontend projects using: 
-    -HTML
-    -CSS
-    -Javascript
-    -React
-    -Python
-    -Django.
-- 🌱 I’m currently learning: 
-    -GraphQL 
-    -PostgreSQL
+- 🔭 I’m currently working on Frontend projects using: HTML,CSS,Javascript,React,Python, & Django.
+- 🌱 I’m currently learning: GraphQL | PostgreSQL
 - 📫 How to reach me: 
     - <a href ="mailto:arnaudcavalletto@yahoo.com"><strong>Email</strong></a> 
     - <a href ="www.linkedin.com/in/arnaud-cavalletto"><strong>LinkedIn</strong></a>
