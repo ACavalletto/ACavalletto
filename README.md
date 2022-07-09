@@ -32,10 +32,7 @@
 <a href="https://firebase.google.com" rel="nofollow">
     <img height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/raw/main/svgs/firebase.svg" alt="google firebase" style="max-width:100%;">
 </a> 
-<br />
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/21040cb6f6b3421f1c8fd76fc0233bdbfeb3…653d64617964696e31342673686f775f69636f6e733d74727565267468656d653d62656172">
-    <img src="https://camo.githubusercontent.com/21040cb……653d646…" alt="Arnaud's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=acavalletto&show_icons=true&theme=bear style="max-width: 100%;">
-    </a>
+
 
 
 
